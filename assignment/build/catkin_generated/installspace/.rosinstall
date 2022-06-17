@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /usr/local/flytos/userapps/setup.sh

@@ -1,0 +1,10 @@
+/usr/local/flytos/userapps/_setup_util.py
+/usr/local/flytos/userapps/env.sh
+/usr/local/flytos/userapps/setup.bash
+/usr/local/flytos/userapps/local_setup.bash
+/usr/local/flytos/userapps/setup.sh
+/usr/local/flytos/userapps/local_setup.sh
+/usr/local/flytos/userapps/setup.zsh
+/usr/local/flytos/userapps/local_setup.zsh
+/usr/local/flytos/userapps/.rosinstall
+/flyt/userapps/onboard_user/install/assignment
